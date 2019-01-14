@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-smile-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thingworx-common-development.server.build-b679.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.1.15.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thingworx-communications-client-development.server.build-b679.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxen-1.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/thingworx-java-sdk-development.server.build-b679-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

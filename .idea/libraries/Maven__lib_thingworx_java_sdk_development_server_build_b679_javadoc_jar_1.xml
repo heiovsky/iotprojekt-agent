@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: lib:thingworx-java-sdk-development.server.build-b679-javadoc.jar:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/thingworx-java-sdk-development.server.build-b679-javadoc.jar/1/thingworx-java-sdk-development.server.build-b679-javadoc.jar-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/thingworx-java-sdk-development.server.build-b679-javadoc.jar/1/thingworx-java-sdk-development.server.build-b679-javadoc.jar-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/thingworx-java-sdk-development.server.build-b679-javadoc.jar/1/thingworx-java-sdk-development.server.build-b679-javadoc.jar-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

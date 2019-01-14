@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: lib:httpcore-4.4.4.jar:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/httpcore-4.4.4.jar/1/httpcore-4.4.4.jar-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/httpcore-4.4.4.jar/1/httpcore-4.4.4.jar-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/httpcore-4.4.4.jar/1/httpcore-4.4.4.jar-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
